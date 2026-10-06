@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Cambridge IGCSE & O Level topic frequency dataset (2020-2025)"
+type: dataset
+authors:
+  - name: "ExamForge"
+    website: "https://examforge.uk"
+date-released: "2026-09-29"
+license: CC-BY-4.0
+url: "https://examforge.uk/stats"
+repository-code: "https://github.com/examforge-uk/cambridge-igcse-topic-frequency"
+keywords: [igcse, o-level, cambridge, past-papers, exam-statistics, education]
