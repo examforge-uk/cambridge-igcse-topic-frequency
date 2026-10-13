@@ -22,19 +22,19 @@ Direct CSV links (for spreadsheets / pandas): `https://raw.githubusercontent.com
 | Qualification | Subject | Code | Papers | Topics | Interactive |
 |---|---|---|---|---|---|
 | Cambridge IGCSE | Business Studies | 0264 | 84 | 29 | [most-tested topics](https://examforge.uk/igcse-topical-past-papers/business-0264/most-tested-topics) |
-| Cambridge IGCSE | ICT | 0417 | 42 | 57 | [most-tested topics](https://examforge.uk/igcse-topical-past-papers/ict-0417/most-tested-topics) |
+| Cambridge IGCSE | ICT | 0417 | 42 | 58 | [most-tested topics](https://examforge.uk/igcse-topical-past-papers/ict-0417/most-tested-topics) |
 | Cambridge IGCSE | Accounting | 0452 | 82 | 27 | [most-tested topics](https://examforge.uk/igcse-topical-past-papers/accounting-0452/most-tested-topics) |
 | Cambridge IGCSE | Economics | 0455 | 84 | 36 | [most-tested topics](https://examforge.uk/igcse-topical-past-papers/economics-0455/most-tested-topics) |
 | Cambridge IGCSE | Computer Science | 0478 | 71 | 34 | [most-tested topics](https://examforge.uk/igcse-topical-past-papers/computer-science-0478/most-tested-topics) |
 | Cambridge IGCSE | Islamiyat | 0493 | 48 | 34 | [most-tested topics](https://examforge.uk/igcse-topical-past-papers/islamiyat-0493/most-tested-topics) |
-| Cambridge IGCSE | Mathematics | 0580 | 168 | 73 | [most-tested topics](https://examforge.uk/igcse-topical-past-papers/extended-mathematics-0580/most-tested-topics) |
-| Cambridge IGCSE | Additional Mathematics | 0606 | 84 | 76 | [most-tested topics](https://examforge.uk/igcse-topical-past-papers/additional-mathematics-0606/most-tested-topics) |
+| Cambridge IGCSE | Mathematics | 0580 | 168 | 75 | [most-tested topics](https://examforge.uk/igcse-topical-past-papers/extended-mathematics-0580/most-tested-topics) |
+| Cambridge IGCSE | Additional Mathematics | 0606 | 84 | 79 | [most-tested topics](https://examforge.uk/igcse-topical-past-papers/additional-mathematics-0606/most-tested-topics) |
 | Cambridge IGCSE | Biology | 0610 | 250 | 66 | [most-tested topics](https://examforge.uk/igcse-topical-past-papers/biology-0610/most-tested-topics) |
 | Cambridge IGCSE | Chemistry | 0620 | 248 | 55 | [most-tested topics](https://examforge.uk/igcse-topical-past-papers/chemistry-0620/most-tested-topics) |
 | Cambridge IGCSE | Physics | 0625 | 251 | 26 | [most-tested topics](https://examforge.uk/igcse-topical-past-papers/physics-0625/most-tested-topics) |
-| Cambridge IGCSE | Combined Science | 0653 | 220 | 85 | [most-tested topics](https://examforge.uk/igcse-topical-past-papers/combined-science-0653/most-tested-topics) |
+| Cambridge IGCSE | Combined Science | 0653 | 220 | 86 | [most-tested topics](https://examforge.uk/igcse-topical-past-papers/combined-science-0653/most-tested-topics) |
 | Cambridge IGCSE | Co-ordinated Sciences | 0654 | 238 | 112 | [most-tested topics](https://examforge.uk/igcse-topical-past-papers/co-ordinated-sciences-0654/most-tested-topics) |
-| Cambridge IGCSE | Environmental Management | 0680 | 79 | 53 | [most-tested topics](https://examforge.uk/igcse-topical-past-papers/environmental-management-0680/most-tested-topics) |
+| Cambridge IGCSE | Environmental Management | 0680 | 79 | 54 | [most-tested topics](https://examforge.uk/igcse-topical-past-papers/environmental-management-0680/most-tested-topics) |
 | Cambridge O Level | Islamic Studies | 2068 | 30 | 15 | [most-tested topics](https://examforge.uk/o-level-topical-past-papers/islamic-studies-o-level-2068/most-tested-topics) |
 | Cambridge O Level | Economics | 2281 | 48 | 39 | [most-tested topics](https://examforge.uk/o-level-topical-past-papers/economics-o-level-2281/most-tested-topics) |
 | Cambridge O Level | Mathematics (Syllabus D) | 4024 | 48 | 42 | [most-tested topics](https://examforge.uk/o-level-topical-past-papers/mathematics-d-4024/most-tested-topics) |
@@ -42,7 +42,7 @@ Direct CSV links (for spreadsheets / pandas): `https://raw.githubusercontent.com
 | Cambridge O Level | Physics | 5054 | 94 | 63 | [most-tested topics](https://examforge.uk/o-level-topical-past-papers/physics-o-level-5054/most-tested-topics) |
 | Cambridge O Level | Chemistry | 5070 | 95 | 49 | [most-tested topics](https://examforge.uk/o-level-topical-past-papers/chemistry-o-level-5070/most-tested-topics) |
 | Cambridge O Level | Biology | 5090 | 84 | 52 | [most-tested topics](https://examforge.uk/o-level-topical-past-papers/biology-o-level-5090/most-tested-topics) |
-| Cambridge O Level | Business Studies | 7115 | 48 | 24 | [most-tested topics](https://examforge.uk/o-level-topical-past-papers/business-studies-o-level-7115/most-tested-topics) |
+| Cambridge O Level | Business Studies | 7115 | 48 | 25 | [most-tested topics](https://examforge.uk/o-level-topical-past-papers/business-studies-o-level-7115/most-tested-topics) |
 | Cambridge O Level | Accounting | 7707 | 48 | 27 | [most-tested topics](https://examforge.uk/o-level-topical-past-papers/accounting-o-level-7707/most-tested-topics) |
 
 ## Columns (topics.csv)
@@ -73,7 +73,7 @@ Full method: [https://examforge.uk/how-it-works](https://examforge.uk/how-it-wor
 
 [CC BY 4.0](LICENSE): free to use, share and adapt, including commercially, **with attribution**:
 
-> Topic frequency data from ExamForge (examforge.uk), 2026-09-29.
+> Topic frequency data from ExamForge (examforge.uk), 2026-10-13.
 
 Please link to https://examforge.uk/stats where you use it. See [CITATION.cff](CITATION.cff) for a formal citation.
 
@@ -81,4 +81,4 @@ Not affiliated with or endorsed by Cambridge University Press & Assessment. Camb
 are its trademarks; syllabus topic names are used descriptively. This dataset contains no question text,
 mark-scheme text or images.
 
-_Last updated 2026-09-29._
+_Last updated 2026-10-13._

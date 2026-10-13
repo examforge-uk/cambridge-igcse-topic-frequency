@@ -5,7 +5,7 @@ type: dataset
 authors:
   - name: "ExamForge"
     website: "https://examforge.uk"
-date-released: "2026-09-29"
+date-released: "2026-10-13"
 license: CC-BY-4.0
 url: "https://examforge.uk/stats"
 repository-code: "https://github.com/examforge-uk/cambridge-igcse-topic-frequency"
